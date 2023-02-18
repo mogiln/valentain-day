@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: rgb(139, 0, 0);
+    font-size: 90px;
+    text-shadow: -1px 0 1px white, 0 -1px 1px white, 0 1px 1px white, 1px 0 1px white, 0 0 8px white, 0 0 8px white, 0 0 8px white, 2px 2px 3px black;
+}
+
+h3 {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(139, 0, 0);
+    text-shadow: -1px 0 1px white, 0 -1px 1px white, 0 1px 1px white, 1px 0 1px white, 0 0 8px white, 0 0 8px white, 0 0 8px white, 2px 2px 3px black;
+    
+}
+
+{box-sizing: border-box;}
+
+#flex-container {
+    display: flex;
+    height: 300px;
+    flex-wrap: wrap;
+}

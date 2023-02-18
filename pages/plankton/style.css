@@ -1,0 +1,14 @@
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-size: 90px;
+    text-align: center;
+    font-family: Some Time Later;
+}
+
+img { 
+    display: block;
+    height: 450px;
+    width: 400px;
+    margin: auto;
+} 
